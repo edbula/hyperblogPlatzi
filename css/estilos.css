@@ -2,4 +2,18 @@ body{
     color: darkslategrey;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    font-size: 16px;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
