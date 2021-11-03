@@ -2,8 +2,4 @@ Este es el archivo de historia, para los ejemplos.
 
 creado por dev Elkin Bula, nacido en sahagun
 
-y vive en Monteria
-
-agregamos ésta nueva linea, para para continuar
-
-seguimos modificando el archivo para crear commits
+y vive en Monteria, desde el año 2009.
