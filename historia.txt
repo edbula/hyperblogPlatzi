@@ -4,4 +4,6 @@ creado por dev Elkin Bula, nacido en sahagun
 
 y vive en Monteria
 
-trabaja para EIA, para Tigo
+agregamos ésta nueva linea, para para continuar
+
+seguimos modificando el archivo para crear commits
