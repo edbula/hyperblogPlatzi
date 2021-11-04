@@ -6,6 +6,14 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    background: darkblue;
+    color: darkgoldenrod;
+    margin: 0;
+    padding: 1,5mm;
+    font-size: xx-large;
+}
+
 #container{
     width: 70%;
     padding: lem;
